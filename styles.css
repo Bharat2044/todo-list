@@ -113,6 +113,12 @@ button:hover {
   background-color: #fb041d;
 }
 
+@media screen and (max-width: 1000px) {
+  .container {
+    width: 75%;
+  }
+}
+
 @media screen and (max-width: 700px) {
   .container {
     width: 95%;
